@@ -1,0 +1,7 @@
+# Python Learning - AI时代的Python识读课
+
+.workbuddy/
+.DS_Store
+__pycache__/
+*.pyc
+.env
